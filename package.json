@@ -1,7 +1,7 @@
 {
   "name": "rn-ts-boilerplate",
-  "version": "0.0.1",
-  "description": "React Native boilerplate by typescript",
+  "version": "0.0.5",
+  "description": "React Native boilerplate by typescript with basic setup",
   "scripts": {
     "test": "exit 0"
   },

@@ -1,16 +1,16 @@
 # React Native Template TypeScript With Basic Setup
 
 <p>
-  <a href="https://github.com/ChanghyeonYoon/rn-ts-starter/actions/workflows/npm-publish.yml">
-    <img alt="Build Status" src="https://github.com/ChanghyeonYoon/rn-ts-starter/actions/workflows/npm-publish.yml/badge.svg" />
+  <a href="https://github.com/ChanghyeonYoon/rn-ts-boilerplate/actions/workflows/npm-publish.yml">
+    <img alt="Build Status" src="https://github.com/ChanghyeonYoon/rn-ts-boilerplate/actions/workflows/npm-publish.yml/badge.svg" />
   </a>
-  <a href="https://github.com/ChanghyeonYoon/rn-ts-starter#readme">
+  <a href="https://github.com/ChanghyeonYoon/rn-ts-boilerplate#readme">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
-  <a href="https://github.com/ChanghyeonYoon/rn-ts-starter/graphs/commit-activity">
+  <a href="https://github.com/ChanghyeonYoon/rn-ts-boilerplate/graphs/commit-activity">
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
   </a>
-  <a href="https://github.com/ChanghyeonYoon/rn-ts-starter/blob/master/LICENSE">
+  <a href="https://github.com/ChanghyeonYoon/rn-ts-boilerplate/blob/master/LICENSE">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
 </p>
