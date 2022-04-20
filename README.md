@@ -31,6 +31,7 @@
 - Basic setup for async storage
 
 ## Usage
+AppName = Your Project Name
 
 ```sh
 npx react-native init AppName --template rn-ts-boilerplate
@@ -39,9 +40,10 @@ npx react-native init AppName --template rn-ts-boilerplate
 ### Usage with older versions of React Native
 
 #### e.g. `react-native@0.67.x`
+AppName = Your Project Name
 
 ```sh
-npx react-native init MyApp --template rn-ts-boilerplate@6.9.*
+npx react-native init AppName --template rn-ts-boilerplate@6.9.*
 ```
 
 See the below table to find out which version of the template to use.
@@ -67,6 +69,19 @@ This template only works with the new CLI. Make sure you have uninstalled the le
 If you tried the above and still get the react-native-template-react- native-template-typescript: Not found error, please try adding the `--ignore-existing` flag to [force npx to ignore](https://github.com/npm/npx#description) any locally installed versions of the CLI and use the latest.
 
 Further information can be found here: https://github.com/react-native-community/cli#about
+
+## Changes
+- 1.0.0
+  - Init Publish
+- 1.0.1
+  - Edit Repo URL
+
+## Contacts
+Changhyeon Yoon <hyeon120411@gmail.com>
+
+## Contributing
+Contributions are very welcome. 
+
 
 ## License
 
