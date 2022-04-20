@@ -1,0 +1,29 @@
+{
+  "name": "rn-ts-boilerplate",
+  "version": "0.0.1",
+  "description": "React Native boilerplate by typescript",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "files": [
+    "template",
+    "template.config.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChanghyeonYoon/rn-ts-starter.git"
+  },
+  "keywords": [
+    "react-native",
+    "typescript",
+    "jest",
+    "template",
+    "boilerplate"
+  ],
+  "author": "Changhyeon Yoon <hyeon120411@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChanghyeonYoon/rn-ts-starter/issues"
+  },
+  "homepage": "https://github.com/ChanghyeonYoon/rn-ts-starter#readme"
+}
