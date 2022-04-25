@@ -75,6 +75,8 @@ Further information can be found here: https://github.com/react-native-community
   - Init Publish
 - 1.0.1
   - Edit Repo URL
+- 1.0.2
+  - Edit README.md 
 
 ## Contacts
 Changhyeon Yoon <hyeon120411@gmail.com>
